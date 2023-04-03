@@ -2,7 +2,7 @@
   "name": "LiteDoc-Client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lllliang.github.io/LiteDoc/tree/main/client",
+  "homepage": "https://lllliang.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
     "@fortawesome/free-solid-svg-icons": "^5.12.0",
@@ -10,6 +10,7 @@
     "axios": "^0.19.2",
     "cassandra-driver": "^4.4.0",
     "draft-js": "^0.11.3",
+    "http-proxy-middleware": "^2.0.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
